@@ -6558,7 +6558,7 @@
 	)
 	(text "Level shift 3.3 <-> 5v"
 		(exclude_from_sim no)
-		(at 322.072 111.252 0)
+		(at 334.772 109.982 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -6935,7 +6935,7 @@
 		(uuid "063082b9-fae0-430f-b1bf-5371bf0486d2")
 	)
 	(junction
-		(at 359.41 123.19)
+		(at 372.11 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "080a498f-ae8d-4a96-91d4-ae69ad8a43ac")
@@ -7181,7 +7181,7 @@
 		(uuid "eee8b181-7c37-4b3e-be64-f60a44bcbaea")
 	)
 	(junction
-		(at 328.93 123.19)
+		(at 341.63 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0264d37-9ece-40f2-b3e8-f980db9840e5")
@@ -7193,7 +7193,7 @@
 		(uuid "f0f63438-4f90-4ec6-85d7-5e57b68c1aa1")
 	)
 	(junction
-		(at 316.23 143.51)
+		(at 328.93 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2fa4d45-50d4-47ae-a946-cb4b71508c55")
@@ -7246,7 +7246,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 144.78) (xy 316.23 143.51)
+			(xy 328.93 143.51) (xy 328.93 142.24)
 		)
 		(stroke
 			(width 0)
@@ -7426,7 +7426,7 @@
 	)
 	(wire
 		(pts
-			(xy 344.17 171.45) (xy 344.17 173.99)
+			(xy 356.87 170.18) (xy 356.87 172.72)
 		)
 		(stroke
 			(width 0)
@@ -7616,7 +7616,7 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 123.19) (xy 346.71 123.19)
+			(xy 372.11 121.92) (xy 359.41 121.92)
 		)
 		(stroke
 			(width 0)
@@ -8246,7 +8246,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 123.19) (xy 341.63 123.19)
+			(xy 341.63 121.92) (xy 354.33 121.92)
 		)
 		(stroke
 			(width 0)
@@ -8336,7 +8336,7 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 116.84) (xy 359.41 123.19)
+			(xy 372.11 115.57) (xy 372.11 121.92)
 		)
 		(stroke
 			(width 0)
@@ -8576,7 +8576,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 123.19) (xy 341.63 135.89)
+			(xy 354.33 121.92) (xy 354.33 134.62)
 		)
 		(stroke
 			(width 0)
@@ -8896,7 +8896,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 140.97) (xy 316.23 143.51)
+			(xy 328.93 139.7) (xy 328.93 142.24)
 		)
 		(stroke
 			(width 0)
@@ -9126,7 +9126,7 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 123.19) (xy 346.71 135.89)
+			(xy 359.41 121.92) (xy 359.41 134.62)
 		)
 		(stroke
 			(width 0)
@@ -9216,7 +9216,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 120.65) (xy 328.93 123.19)
+			(xy 341.63 119.38) (xy 341.63 121.92)
 		)
 		(stroke
 			(width 0)
@@ -9426,7 +9426,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 143.51) (xy 334.01 143.51)
+			(xy 328.93 142.24) (xy 346.71 142.24)
 		)
 		(stroke
 			(width 0)
@@ -10075,7 +10075,7 @@
 		(uuid "02e40c59-976a-4965-bd35-b73c24e5e648")
 	)
 	(label "GPIO23"
-		(at 334.01 158.75 180)
+		(at 346.71 157.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10095,7 +10095,7 @@
 		(uuid "0718b2ff-704c-42ff-9868-42ae4b1c9333")
 	)
 	(label "GPIO22"
-		(at 334.01 156.21 180)
+		(at 346.71 154.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10205,7 +10205,7 @@
 		(uuid "15117dca-d2df-464c-bcf8-43782557b2fa")
 	)
 	(label "GPIO21_TRANS"
-		(at 354.33 153.67 0)
+		(at 367.03 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10255,7 +10255,7 @@
 		(uuid "19d669ae-bca1-4fd6-925f-87cdb162f691")
 	)
 	(label "GPIO18"
-		(at 334.01 146.05 180)
+		(at 346.71 144.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10455,7 +10455,7 @@
 		(uuid "3e257fd2-1e07-41f7-83f0-152b98667fde")
 	)
 	(label "GPIO25"
-		(at 334.01 163.83 180)
+		(at 346.71 162.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10495,7 +10495,7 @@
 		(uuid "47677584-32ff-4042-a2a2-8891e0875734")
 	)
 	(label "GPIO24"
-		(at 334.01 161.29 180)
+		(at 346.71 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10605,7 +10605,7 @@
 		(uuid "59333332-c303-4706-8c6f-d259ccfec8bd")
 	)
 	(label "GPIO21"
-		(at 334.01 153.67 180)
+		(at 346.71 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10635,7 +10635,7 @@
 		(uuid "61e4806d-16f5-4546-a854-f54e01b5645a")
 	)
 	(label "GPIO19_TRANS"
-		(at 354.33 148.59 0)
+		(at 367.03 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10835,7 +10835,7 @@
 		(uuid "83c93b38-a9b0-4f39-9e89-5d33738456f6")
 	)
 	(label "GPIO22_TRANS"
-		(at 354.33 156.21 0)
+		(at 367.03 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10915,7 +10915,7 @@
 		(uuid "8f1972dc-4202-4a98-b7e8-77337e477280")
 	)
 	(label "GPIO20_TRANS"
-		(at 354.33 151.13 0)
+		(at 367.03 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10935,7 +10935,7 @@
 		(uuid "9086166c-a539-465d-ae4d-090508334703")
 	)
 	(label "VSYS"
-		(at 359.41 116.84 180)
+		(at 372.11 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11015,7 +11015,7 @@
 		(uuid "a41026b2-2243-4116-a7de-1cbe83dbe1f0")
 	)
 	(label "GPIO20"
-		(at 334.01 151.13 180)
+		(at 346.71 149.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11135,7 +11135,7 @@
 		(uuid "b44f8089-1105-490d-8634-35af406c13ff")
 	)
 	(label "GPIO19"
-		(at 334.01 148.59 180)
+		(at 346.71 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11355,7 +11355,7 @@
 		(uuid "df28556c-c235-4f8f-9ba3-cece29b6d262")
 	)
 	(label "GPIO25_TRANS"
-		(at 354.33 163.83 0)
+		(at 367.03 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11455,7 +11455,7 @@
 		(uuid "ef00a342-ad5d-4044-a69a-d4cd058e7c4a")
 	)
 	(label "GPIO23_TRANS"
-		(at 354.33 158.75 0)
+		(at 367.03 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11485,7 +11485,7 @@
 		(uuid "f9e191e0-ff91-4762-9d1e-8c449a5aa8ea")
 	)
 	(label "GPIO24_TRANS"
-		(at 354.33 161.29 0)
+		(at 367.03 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11525,7 +11525,7 @@
 		(uuid "fe20c62a-7e82-4097-9389-a15d0fb0766e")
 	)
 	(label "GPIO18_TRANS"
-		(at 354.33 146.05 0)
+		(at 367.03 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13904,7 +13904,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/ncp1117st33t3g-8"
+		(property "Buy Link" "https://www.rcscomponents.kiev.ua/product/ncp1117st33t3g_26776.html"
 			(at 245.11 35.56 0)
 			(effects
 				(font
@@ -14176,7 +14176,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106mo8nqnc-2"
+		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106kp8nnnc-6"
 			(at 227.33 40.64 0)
 			(effects
 				(font
@@ -14253,7 +14253,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106mo8nqnc-2"
+		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106kp8nnnc-6"
 			(at 262.89 40.64 0)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106mo8nqnc-2"
+		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106kp8nnnc-6"
 			(at 323.85 38.1 0)
 			(effects
 				(font
@@ -14676,7 +14676,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 344.17 173.99 0)
+		(at 356.87 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14684,7 +14684,7 @@
 		(dnp no)
 		(uuid "00a15513-50ab-4fda-8cb7-a30d634a3069")
 		(property "Reference" "#PWR049"
-			(at 344.17 180.34 0)
+			(at 356.87 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14693,7 +14693,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 344.297 178.3842 0)
+			(at 356.997 177.1142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14701,7 +14701,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 344.17 173.99 0)
+			(at 356.87 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14710,7 +14710,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 344.17 173.99 0)
+			(at 356.87 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14719,7 +14719,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 344.17 173.99 0)
+			(at 356.87 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14817,7 +14817,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 328.93 130.81 0)
+		(at 341.63 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14825,7 +14825,7 @@
 		(dnp no)
 		(uuid "08dfd6a5-ee6d-4e90-b04b-dc67d4452f60")
 		(property "Reference" "#PWR046"
-			(at 328.93 137.16 0)
+			(at 341.63 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14834,7 +14834,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 329.057 135.2042 0)
+			(at 341.757 133.9342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14842,7 +14842,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 328.93 130.81 0)
+			(at 341.63 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14851,7 +14851,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 328.93 130.81 0)
+			(at 341.63 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14860,7 +14860,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 328.93 130.81 0)
+			(at 341.63 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15086,7 +15086,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 316.23 148.59 180)
+		(at 328.93 147.32 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15094,7 +15094,7 @@
 		(dnp no)
 		(uuid "22fdd4b1-3a1c-4841-9641-301492d5aaf0")
 		(property "Reference" "R14"
-			(at 318.262 147.828 0)
+			(at 330.962 146.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15103,7 +15103,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 319.024 150.114 0)
+			(at 331.724 148.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15112,7 +15112,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 318.008 148.59 90)
+			(at 330.708 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15121,7 +15121,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 316.23 148.59 0)
+			(at 328.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15130,7 +15130,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 316.23 148.59 0)
+			(at 328.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15139,7 +15139,7 @@
 			)
 		)
 		(property "Buy Link" "https://imrad.com.ua/ua/rt0603brd071kl-7"
-			(at 316.23 148.59 0)
+			(at 328.93 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15317,7 +15317,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 328.93 120.65 0)
+		(at 341.63 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15325,7 +15325,7 @@
 		(dnp no)
 		(uuid "2e08f180-5fb0-43b5-af08-1e84f63a3ed4")
 		(property "Reference" "#PWR045"
-			(at 328.93 124.46 0)
+			(at 341.63 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15334,7 +15334,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 329.311 116.2558 0)
+			(at 342.011 114.9858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15342,7 +15342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 328.93 120.65 0)
+			(at 341.63 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15351,7 +15351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 328.93 120.65 0)
+			(at 341.63 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15360,7 +15360,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 328.93 120.65 0)
+			(at 341.63 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16758,7 +16758,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 359.41 130.81 0)
+		(at 372.11 129.54 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16767,7 +16767,7 @@
 		(dnp no)
 		(uuid "5a0c9367-d221-45d4-975a-95cd44f21aa0")
 		(property "Reference" "#PWR050"
-			(at 359.41 137.16 0)
+			(at 372.11 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16776,7 +16776,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 359.283 135.2042 0)
+			(at 371.983 133.9342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16784,7 +16784,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 359.41 130.81 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16793,7 +16793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 359.41 130.81 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16802,7 +16802,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 359.41 130.81 0)
+			(at 372.11 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17142,7 +17142,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 328.93 127 0)
+		(at 341.63 125.73 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17151,7 +17151,7 @@
 		(dnp no)
 		(uuid "68c41562-0782-4620-a88d-56bfb03e92e8")
 		(property "Reference" "C20"
-			(at 332.74 125.984 0)
+			(at 345.44 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17160,7 +17160,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 332.486 128.016 0)
+			(at 345.186 126.746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17169,7 +17169,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 329.8952 123.19 0)
+			(at 342.5952 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17178,7 +17178,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 328.93 127 0)
+			(at 341.63 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17187,7 +17187,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 328.93 127 0)
+			(at 341.63 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17195,7 +17195,7 @@
 			)
 		)
 		(property "Buy Link" "https://imrad.com.ua/ua/cl10b104kb8nnnc-8"
-			(at 328.93 127 0)
+			(at 341.63 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17361,7 +17361,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 359.41 127 0)
+		(at 372.11 125.73 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17370,7 +17370,7 @@
 		(dnp no)
 		(uuid "77c5e1b4-7e3f-4ba9-8ce0-3caf0906694a")
 		(property "Reference" "C21"
-			(at 356.489 125.8316 0)
+			(at 369.189 124.5616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17379,7 +17379,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 356.489 128.143 0)
+			(at 369.189 126.873 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17388,7 +17388,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 358.4448 130.81 0)
+			(at 371.1448 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17397,7 +17397,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 359.41 127 0)
+			(at 372.11 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17406,7 +17406,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 359.41 127 0)
+			(at 372.11 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17414,7 +17414,7 @@
 			)
 		)
 		(property "Buy Link" "https://imrad.com.ua/ua/cl10b104kb8nnnc-8"
-			(at 359.41 127 0)
+			(at 372.11 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17637,7 +17637,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 316.23 140.97 0)
+		(at 328.93 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17645,7 +17645,7 @@
 		(dnp no)
 		(uuid "834f9a67-1d32-4de0-b548-207f36891f30")
 		(property "Reference" "#PWR038"
-			(at 316.23 144.78 0)
+			(at 328.93 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17654,7 +17654,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 316.611 136.5758 0)
+			(at 329.311 135.3058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17662,7 +17662,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 140.97 0)
+			(at 328.93 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17671,7 +17671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 140.97 0)
+			(at 328.93 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17680,7 +17680,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 140.97 0)
+			(at 328.93 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17851,7 +17851,7 @@
 	)
 	(symbol
 		(lib_id "Logic_LevelTranslator:TXS0108EPW")
-		(at 344.17 153.67 0)
+		(at 356.87 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17860,7 +17860,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c4fbca3-797c-400d-9b9f-18e6eb80ad67")
 		(property "Reference" "U6"
-			(at 346.3133 171.45 0)
+			(at 359.0133 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17869,7 +17869,7 @@
 			)
 		)
 		(property "Value" "TXS0108EPW"
-			(at 346.3133 173.99 0)
+			(at 359.0133 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17878,7 +17878,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
-			(at 344.17 172.72 0)
+			(at 356.87 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17887,7 +17887,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/txs0108e.pdf"
-			(at 344.17 156.21 0)
+			(at 356.87 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17896,7 +17896,7 @@
 			)
 		)
 		(property "Description" "Bidirectional  level-shifting voltage translator, TSSOP-20"
-			(at 344.17 153.67 0)
+			(at 356.87 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17905,7 +17905,7 @@
 			)
 		)
 		(property "Buy Link" "https://imrad.com.ua/ua/txs0108epwr-2"
-			(at 344.17 153.67 0)
+			(at 356.87 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19162,7 +19162,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106mo8nqnc-2"
+		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106kp8nnnc-6"
 			(at 396.24 36.83 0)
 			(effects
 				(font
@@ -20018,7 +20018,7 @@
 				)
 			)
 		)
-		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106mo8nqnc-2"
+		(property "Buy Link" "https://imrad.com.ua/ua/cl10a106kp8nnnc-6"
 			(at 153.67 38.1 0)
 			(effects
 				(font
@@ -20044,7 +20044,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 316.23 152.4 0)
+		(at 328.93 151.13 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20053,7 +20053,7 @@
 		(dnp no)
 		(uuid "ef78d9a7-b68c-4d93-be1b-334ee287c123")
 		(property "Reference" "#PWR039"
-			(at 316.23 158.75 0)
+			(at 328.93 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20062,7 +20062,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 316.23 156.21 0)
+			(at 328.93 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20070,7 +20070,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 152.4 0)
+			(at 328.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20079,7 +20079,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 152.4 0)
+			(at 328.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20088,7 +20088,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 316.23 152.4 0)
+			(at 328.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
